@@ -355,7 +355,7 @@ p,
     display:block;
 }
 
-.contact-right .img{
+.contact-right img{
     width: 400px;
     height: 400px;
     border-radius: 5px;
@@ -368,7 +368,7 @@ p,
     .contact-left{
         width:80%;
     }
-    .contact-right .img{
+    .contact-right img{
         width: 200px;
         height: 200px;
 }
