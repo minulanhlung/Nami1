@@ -355,6 +355,12 @@ p,
     display:block;
 }
 
+.contact-right .img{
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+}
+
 @media screen and (max-width:800px){
     .contact-container{
         flex-direction: column;
@@ -362,6 +368,9 @@ p,
     .contact-left{
         width:80%;
     }
+    .contact-right .img{
+        width: 200px;
+        height: 200px;
 }
 
 
