@@ -39,9 +39,9 @@ function sendEmail(){
             Swal.fire({
                 position: "center",
                 icon: "success",
-                title: "Thanks Your Feedback",
+                title: "Vielen Dank für Ihre Bestellung",
                 showConfirmButton: false,
-                timer: 2000
+                timer: 2300
               });
         }
       }
